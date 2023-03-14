@@ -1,0 +1,44 @@
+h1{
+    color: chocolate;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3.2em;
+    font-weight: 400;
+    text-shadow: 4px 2px 8px #00ff62;
+}
+#txtTexto{
+    text-align: justify;
+}
+.ftoImgParrafo{
+    float: right;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}
+.ftoImgParrafo2{
+    float: left;
+    padding: 10px;
+    margin: 8px;
+    border: double;
+}
+.subtema{
+    color: firebrick;
+    margin: 20px;
+    text-align: right;
+    font-style:oblique;
+    font-size: 1.7em;
+    clear: both;
+}
+.subtema2{
+    color: firebrick;
+    margin:20px;
+    text-align: left;
+    font-style:oblique;
+    font-size: 1.7em;
+    clear: both;
+}
+p{
+    text-align: justify;
+    font-family:cursive;
+    font-size: 1.3em;
+}

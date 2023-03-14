@@ -1,0 +1,27 @@
+h1{
+    color: chocolate;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3.5em;
+    font-weight: 400;
+    text-shadow: 4px 2px 8px #00e5ff;
+    margin: 2%;
+}
+#ImgTit{
+    display: inline-block;
+    float:left;
+    margin: 8px;
+    padding: 20px;
+}
+.Subtit{
+    color: firebrick;
+    margin:20px;
+    text-align: left;
+    font-size: 2em;
+}
+.Subtext{
+    text-align: justify;
+    font-family: cursive;
+    font-size: 22px;
+    margin: 2.5px;
+}

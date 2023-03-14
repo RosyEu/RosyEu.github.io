@@ -1,0 +1,50 @@
+body{
+    background-color: cornsilk;
+}
+#logo1{
+    display: inline-block;
+    width: 12%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    color: cornflowerblue;
+}
+#logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 13%;
+    background-color: gold;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+    border: double;
+    color: blue;
+    margin: 5px;
+    padding: 2px
+}
+#marco{
+    width: 99%;
+    padding:5px;
+    height: 480px;
+    background-color: azure;
+    border: dashed;
+}
+#pie{
+    text-align: center;
+    font-size: 16px;
+    border-style: dashed;
+    border-color: firebrick;
+    font-family: cursive;
+    color: saddlebrown;
+}

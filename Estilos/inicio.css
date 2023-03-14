@@ -1,0 +1,23 @@
+#Titulo{
+    clear: both;
+    display: inline-block;
+    width: 56%;
+    font-size: 3.5em;
+    font-family: ;
+    margin: 0.2em;
+    text-align: center;
+    color: mediumblue;
+    text-shadow: 6px 2px 8px #2da840;
+}
+p{
+ font-family: cursive;
+    font-size: 22px;
+    margin: 0.2em;
+    padding: 0.2em;
+}
+#ImgTit{
+    display: inline-block;
+    width: 20%;
+    float:left;
+    margin: 23px;
+}

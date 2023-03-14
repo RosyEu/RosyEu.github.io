@@ -1,0 +1,42 @@
+#Titulo{
+    display: inline-block;
+    width: 50%;
+    margin: 0.5%;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: 400;
+    font-size: 4em;
+    color: chocolate;
+    text-shadow: 9px 2px 8px #d77aff;
+    clear: both;
+}
+#ins{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+    margin: 5px;
+    padding: 10px;
+    color: darkblue;
+}
+.ins{
+    font-family: cursive;
+    font-size: 22px;
+    margin: 2.5px;
+}
+#text{
+    font-family: cursive;
+    text-align: left;
+    font-size: 22px;
+    margin: 2.5px;
+}
+#ImgTit{
+    display: inline-block;
+    float:left;
+    margin: 10px;
+    padding: 20px;
+}
+#Imgcroc{
+    float:right;
+    padding: 10px;
+    margin: 8px;
+}
